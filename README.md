@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development and build new & user friendly experience
 - 🌱 I’ve currently completed my graduation in ComputerScience Engineering
 - 💞️ I’m looking to collaborate on Frontend Technology and Java as a programming language
-- 📫 My hobbies include reading and listing to books and play cricket(School & College Team Captain)
+- 📫 My hobbies include reading and listing to audiobooks and play cricket(School & College Team Captain)
 
 <!---
 Karthik-18/Karthik-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
